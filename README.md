@@ -32,3 +32,13 @@ Day 43 : 22/7/21
 		  - squareFunc.sql
 		  - storedProcedure.sql
 		  - trigger.sql
+		  
+Day 44 : 23/7/21
+  - Databases :
+      - indexes
+	      - basic.sql
+	  - swabhav
+	      - emp1.sql
+	  - transaction
+	      - basic.sql	  
+			  
