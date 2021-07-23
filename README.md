@@ -28,3 +28,7 @@ Day 43 : 22/7/21
   - Databases :
       - TASK
 	      - queries.sql
+		  - dateFunc.sql
+		  - squareFunc.sql
+		  - storedProcedure.sql
+		  - trigger.sql
