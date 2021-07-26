@@ -42,3 +42,6 @@ Day 44 : 23/7/21
 	  - transaction
 	      - basic.sql	  
 			  
+Day 45 : 24/7/21
+  - Databases
+      - student.sql
